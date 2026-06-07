@@ -164,8 +164,6 @@ class _FeatureSlideScreenState extends State<FeatureSlideScreen> {
               ),
 
               const SizedBox(height: 24),
-
-              // KHU VỰC CÁC CHẤM CHỈ SỐ (INDICATORS)
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: List.generate(
