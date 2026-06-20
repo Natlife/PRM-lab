@@ -24,3 +24,13 @@ android/key.properties
 .vscode/
 .DS_Store
 Thumbs.db
+.metadata
+local.properties
+
+android/
+ios/
+web/
+windows/
+macos/
+linux/
+test/
